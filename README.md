@@ -6,7 +6,9 @@
 # WiFiC64Modem3DCASE
 
 PCB: https://www.pcbway.com/project/shareproject/Wifi_Modem_for_Commodore_64__Nodemcu_CH340_.html
+
 CONNECTOR: https://it.aliexpress.com/item/1005005951317282.html
+
 MODEM: https://it.aliexpress.com/item/32656775273.html
 
 Commodore 64 WiFi Modem 3D CASE
