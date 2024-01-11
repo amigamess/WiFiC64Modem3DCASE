@@ -6,10 +6,8 @@
 # WiFiC64Modem3DCASE
 
 PCB: https://www.pcbway.com/project/shareproject/Wifi_Modem_for_Commodore_64__Nodemcu_CH340_.html
-
-CONNECTOR: https://it.aliexpress.com/item/1005005951317282.html
-
-MODEM: https://it.aliexpress.com/item/32656775273.html
+CONNECTOR: Aliexpress 805 serie 24 Pin JAMMA 3.96MM 
+MODEM: Aliexpress Wireless CH340 WiFi Modem
 
 Commodore 64 WiFi Modem 3D CASE
 ![modem](https://github.com/amigamess/WiFiC64Modem3DCASE/assets/82521152/aceda6a5-b192-46f0-9615-d676479b4f23)
